@@ -14,7 +14,7 @@
             "url": "original-Pixelitor-4-3-1"
         }],
         "javaVersion": "21",
-        "jar": "target/original-Pixelitor-4.3.1.jar",
+        "jar": "target/Pixelitor-4.3.1.jar",
         "javafx": false,
         "title": "Pixelitor"
     },
